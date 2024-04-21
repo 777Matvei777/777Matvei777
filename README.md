@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-I've been learning code for 5 years. I started with C++, but have really found a passion for Go development
+I've been learning code for 3 years. I started with C++, but have really found a passion for Go development
 
 * 🌍  I'm based in Saint-Petersburg, Russia
 * ✉️  You can contact me at [matveydyrin666@gmail.com](mailto:matveydyrin666@gmail.com)
