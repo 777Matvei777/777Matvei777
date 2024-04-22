@@ -19,8 +19,8 @@ I've been learning code for 3 years. I started with C++, but have really found a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/777matvei777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="777matvei777" height="80" width="40" /></a>
-<a href = "https://t.me/zadov228337" target="blank"><img align="center" src="https://rusdnepr.ru/wp-content/uploads/2023/04/telega2-2048x2048.png" alt="777matvei777" height="30" width="40"></a>
+<a href="https://www.leetcode.com/777matvei777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="777matvei777" height="30" width="40" /></a>
+<a href = "https://t.me/zadov228337" target="blank"><img align="center" src="https://www.i-tt.ru/application/files/3015/6526/1057/Telegram-2.png" alt="777matvei777" height="30" width="40"></a>
 </p>
 
 <br/>  
