@@ -20,6 +20,7 @@ I've been learning code for 3 years. I started with C++, but have really found a
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/777matvei777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="777matvei777" height="30" width="40" /></a>
+<a href = "@zadov228337" target="blank"><img align="center" src="https://cs8.pikabu.ru/post_img/2018/01/15/0/og_og_1515966586292420018.jpg" alt="777matvei777" height="30" width="40"></a>
 </p>
 
 <br/>  
