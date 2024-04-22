@@ -8,7 +8,7 @@ I've been learning code for 3 years. I started with C++, but have really found a
 
 * 🌍  I'm based in Saint-Petersburg, Russia
 * ✉️  You can contact me at [matveydyrin666@gmail.com](mailto:matveydyrin666@gmail.com)
-* 🧠  I'm learning Go
+* 🧠  I'm currently learning Go
 
 ### Skills
 
